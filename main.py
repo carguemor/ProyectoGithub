@@ -17,4 +17,8 @@ if __name__ == '__main__':
     for i in range(0,5):
         print("Hello: ", i)
 
+    var = 5
+    var += 10
+    print(var)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
